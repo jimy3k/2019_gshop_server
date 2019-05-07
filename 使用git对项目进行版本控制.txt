@@ -1,0 +1,8 @@
+1、 git init
+2、 git add *
+//git config --global user.email "jimy3k@163.com"
+//git config --global user.name "jimy3k"
+3、 git commit -m "init gshop"
+4、 github.com 创建项目仓库
+5、 git remote add origin https://github.com/jimy3k/2019_gshop.git
+6、 git push -u origin master
